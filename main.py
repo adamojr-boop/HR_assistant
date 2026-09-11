@@ -84,3 +84,5 @@ Domanda: {user_query}
     print(response.choices[0].message.content)
     print("\nFonti utilizzate:", set(s["source"] for s in sources))
     print("-" * 50 + "\n")
+    
+    #poetry run python main.py  --> Avvia l'assistente HR interattivo
