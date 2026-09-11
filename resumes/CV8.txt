@@ -1,0 +1,17 @@
+Nome: ALESSANDRO NERI
+Cloud System Administrator & DevOps
+Email: alessandro.neri@email.com
+Tel: +39 340 7766554
+Padova, Italia
+LinkedIn: linkedin.com/in/alessandroneri
+### PROFILO PROFESSIONALE
+System Administrator con 12 anni di esperienza nella gestione di infrastrutture IT cloud e ibride. Specializzato in automazione, sicurezza dei server e containerizzazione.
+### ESPERIENZA PROFESSIONALE
+DevOps & Infrastructure Lead | NetServer SpA | 2017 - Presente
+- Migrazione di 50+ server aziendali verso architetture cloud AWS.
+- Implementazione di pipeline CI/CD e monitoraggio proattivo H24.
+### COMPETENZE TECNICHE
+- Linux / Windows Server
+- Docker & Kubernetes
+- AWS & Azure Cloud
+- Terraform & Ansible

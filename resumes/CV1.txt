@@ -1,0 +1,16 @@
+Nome: MARIO ROSSI
+Controller di Gestione Senior
+Via Roma 123, Milano
+Tel: +39 123 456 7890
+Email: mario.rossi@email.com
+LinkedIn: linkedin.com/in/mariorossi
+### PROFILO PROFESSIONALE
+Controller di Gestione con 25 anni di esperienza nella pianificazione strategica e nel controllo finanziario. Comprovata capacità di ottimizzare i processi aziendali e implementare sistemi di reporting efficaci.
+### ESPERIENZA PROFESSIONALE
+DIRETTORE CONTROLLO DI GESTIONE | Industria SpA | 2010 - Presente
+- Direzione del team di controlling composto da 8 persone.
+- Implementazione di un nuovo sistema di controllo di gestione che ha ridotto i costi operativi del 15%.
+### COMPETENZE
+- Pianificazione strategica e budgeting
+- SAP, Oracle, Power BI
+- Advanced Excel e VBA

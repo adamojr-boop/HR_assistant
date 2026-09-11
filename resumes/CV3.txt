@@ -1,0 +1,18 @@
+Nome: MARCO CONTI
+Senior Data Scientist & AI Engineer
+Email: marco.conti@email.com
+Tel: +39 328 9988776
+Milano, Italia
+LinkedIn: linkedin.com/in/marcoconti
+GitHub: github.com/marcoconti
+### PROFILO PROFESSIONALE
+Data Scientist con 10 anni di esperienza nello sviluppo di modelli di machine learning, analisi predittiva e soluzioni basate su Large Language Models (LLM). Forte background in statistica e ingegneria dei dati.
+### ESPERIENZA PROFESSIONALE
+Lead AI Researcher | DataLab Italia | 2020 - Presente
+- Sviluppo di pipeline di RAG (Retrieval-Augmented Generation) per clienti enterprise.
+- Ottimizzazione di modelli predittivi che hanno migliorato la retention dei clienti del 22%.
+### COMPETENZE TECNICHE
+- Python, PyTorch, Scikit-Learn
+- Pandas, NumPy
+- Vector Databases (ChromaDB, Pinecone)
+- LLM Fine-Tuning & Prompt Engineering
